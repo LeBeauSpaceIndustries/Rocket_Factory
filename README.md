@@ -1,8 +1,7 @@
-# Rocket_Factory Version 1.1p  (for KSP pre-Release 1.1) 
-a KerbalSpaceProgramm Mod. Package  - Rocket Factory -
+# Rocket_Factory a KerbalSpaceProgramm Mod. Package  - Rocket Factory -
 
 =======================================================================
-Rocket_Factory Version 1.1p  (for KSP pre-Release 1.1) 
+"Rocket Factory" Version 1.1p  (for KSP pre-Release 1.1) 
 =======================================================================
 
 
