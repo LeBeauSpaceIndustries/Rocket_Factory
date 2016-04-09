@@ -1,6 +1,7 @@
 # 
-
+----------------------------------------------------------
 "Rocket Factory" Version 1.1p  (for KSP pre-Release 1.1) 
+----------------------------------------------------------
 
 forum.kerbalspaceprogram.com/index.php?/topic/126810-105-rocket-factory-lebeau-space-industries
 
